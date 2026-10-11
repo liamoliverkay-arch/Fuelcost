@@ -1,0 +1,9 @@
+{
+  "name": "every-airfield",
+  "productName": "Every Airfield",
+  "version": "1.0.0",
+  "description": "World airport map with live planes and crowd-reported fuel prices",
+  "main": "main.js",
+  "private": true,
+  "license": "UNLICENSED"
+}

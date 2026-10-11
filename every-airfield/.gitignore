@@ -1,0 +1,11 @@
+# fuel prices saved by server.py (live data, not source code)
+prices.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.prices-*.tmp
+tests/out/
+downloads/
+.supabase-project
